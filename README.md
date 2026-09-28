@@ -1,1 +1,1 @@
-# NRG-IS477 - Group
+# NRG-IS477 - Group Project
