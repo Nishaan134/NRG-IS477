@@ -31,7 +31,7 @@ Using the validated integrated data, we will compare state trends and associatio
 | ACS electricity-related housing measure | [ACS table B25040: House Heating Fuel](https://data.census.gov/table/ACSDT1Y2024.B25040) | 750 rows, 50 states, 2010–2024. | Provides housing counts and an electricity share. We could map state names to the same state identifiers used by EIA and FRED, then link on state/year. |
 
 ## Analysis
-| These datasets all have the common attributes of state and year, which will allow us to identify similarities by these categories. We can do this by creating visualizations by state trend year over year or same-year scatterplots finding relationships between states. We could also fit models estimating for ACS share using electricity prices and real income and determine the correlation coefficient.|
+These datasets all have the common attributes of state and year, which will allow us to identify similarities by these categories. We can do this by creating visualizations by state trend year over year or same-year scatterplots finding relationships between states. We could also fit models estimating for ACS share using electricity prices and real income and determine the correlation coefficient.
 
 ## Timeline
 
