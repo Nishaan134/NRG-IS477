@@ -33,6 +33,27 @@ Using the validated integrated data, we will compare state trends and associatio
 ## Analysis
 These datasets all have the common attributes of state and year, which will allow us to identify similarities by these categories. We can do this by creating visualizations by state trend year over year or same-year scatterplots finding relationships between states. We could also fit models estimating for ACS share using electricity prices and real income and determine the correlation coefficient.
 
+## Constraints
+
+- **Data window.** EIA and FRED extend to 2025, but ACS 1-year data ends in 2024, so the integrated analysis is limited to 2010–2024. 2025 values from EIA and FRED will be dropped at merge.
+- **2020 ACS data.** The Census Bureau did not release standard 2020 ACS 1-year estimates because of COVID-19 collection problems; only experimental estimates exist. We will verify what our 2020 rows contain and either flag, exclude, or interpolate that year, documenting the choice.
+- **Geographic scope.** Analysis is limited to the 50 states. Washington, D.C. and territories will be excluded unless all three sources include them consistently.
+- **Nominal vs. real values.** EIA prices are nominal (cents per kWh), while FRED income is in constant (inflation-adjusted) dollars. Prices must be deflated with the same price index (CPI-U-RS) before the two are compared.
+- **Price definition.** EIA residential price is average revenue per kWh sold. It reflects the overall cost of electricity but not rate structures, fixed charges, or time-of-use pricing.
+- **Income estimate quality.** State median household income in FRED comes from the CPS ASEC, which has small state samples and large standard errors. Methodology changes (notably 2013 and 2017) may create breaks in the series.
+- **Sample size.** With 50 states over 15 years (at most 750 state-year observations), statistical power is limited, and observations within a state are not independent across years.
+- **Time and scope.** With three members and about eight weeks, the analysis will remain descriptive and correlational rather than causal or predictive.
+
+## Gaps
+
+- **Measure mismatch.** ACS B25040 measures the share of occupied housing units that use electricity as their primary heating fuel. It does not measure electricity consumption or demand. Findings will be framed as associations with electric heating adoption, not electricity use. The Overview wording should be revised to match.
+- **Missing confounders.** Climate (heating degree days), natural gas availability and price, housing age and type, and state energy policies all likely affect heating fuel choice, but none appear in our data. Any relationships we observe may be driven by these unmeasured factors.
+- **Aggregation level.** All three datasets are state-level aggregates. Results cannot be applied to individual households (ecological fallacy), and within-state differences such as urban versus rural areas are hidden.
+- **Survey uncertainty.** ACS estimates include margins of error that we do not currently plan to propagate through the analysis, so small year-to-year changes in electricity share may not be meaningful.
+- **Different income sources.** Income comes from the CPS (via FRED), while the housing measure comes from the ACS. Because the two surveys use different samples and methods, the measures are not perfectly comparable.
+- **No causal identification.** Our design cannot establish whether prices or income cause changes in electric heating share. The research questions are limited to associations.
+- **Unverified provenance.** ACS estimate type (1-year vs. 5-year), FRED units, and EIA definitions are still being confirmed (Oct 19 milestone). Any discrepancies found then may require revising this plan.
+
 ## Timeline
 
 | Date | Task | Task Description | Member Responsible |
