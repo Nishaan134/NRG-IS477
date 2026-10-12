@@ -29,6 +29,8 @@ Using the validated integrated data, we will compare state trends and associatio
 | Residential electricity prices| [U.S. EIA Electricity Data Browser](https://www.eia.gov/electricity/data/browser/). | Year columns 2010–2025; 50 states. | Measures the price of residential electricity. We may extract state abbreviations from identifiers like `ELEC.PRICE.IL-RES.A` and reshape year columns into rows. Possibly remove locations without values. |
 | Real median household income | Census Bureau estimates distributed through [FRED](https://fred.stlouisfed.org/series/MEHOINUSILA672N). | 16 annual rows, 2010–2025, and 50 states. | This dataset adds economic context. Convert observation dates to years, reshape state series into rows, and map series IDs to state abbreviations. |
 | ACS electricity-related housing measure | [ACS table B25040: House Heating Fuel](https://data.census.gov/table/ACSDT1Y2024.B25040) | 750 rows, 50 states, 2010–2024. | Provides housing counts and an electricity share. We could map state names to the same state identifiers used by EIA and FRED, then link on state/year. |
+
+## Analysis
 | These datasets all have the common attributes of state and year, which will allow us to identify similarities by these categories. We can do this by creating visualizations by state trend year over year or same-year scatterplots finding relationships between states. We could also fit models estimating for ACS share using electricity prices and real income and determine the correlation coefficient.|
 
 ## Timeline
