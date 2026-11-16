@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+
+# Secrets (EIA_API_KEY lives here locally)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Snakemake runtime state
+.snakemake/
