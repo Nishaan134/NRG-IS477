@@ -1,0 +1,993 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2010,AK,Alaska,RES,residential,16.26,cents per kilowatt-hour
+2010,AL,Alabama,RES,residential,10.67,cents per kilowatt-hour
+2010,AR,Arkansas,RES,residential,8.86,cents per kilowatt-hour
+2010,AZ,Arizona,RES,residential,10.97,cents per kilowatt-hour
+2010,CA,California,RES,residential,14.75,cents per kilowatt-hour
+2010,CO,Colorado,RES,residential,11.04,cents per kilowatt-hour
+2010,CT,Connecticut,RES,residential,19.25,cents per kilowatt-hour
+2010,DC,District of Columbia,RES,residential,14.01,cents per kilowatt-hour
+2010,DE,Delaware,RES,residential,13.8,cents per kilowatt-hour
+2010,ENC,East North Central,RES,residential,11.41,cents per kilowatt-hour
+2010,ESC,East South Central,RES,residential,9.58,cents per kilowatt-hour
+2010,FL,Florida,RES,residential,11.44,cents per kilowatt-hour
+2010,GA,Georgia,RES,residential,10.07,cents per kilowatt-hour
+2010,HI,Hawaii,RES,residential,28.1,cents per kilowatt-hour
+2010,IA,Iowa,RES,residential,10.42,cents per kilowatt-hour
+2010,ID,Idaho,RES,residential,7.99,cents per kilowatt-hour
+2010,IL,Illinois,RES,residential,11.52,cents per kilowatt-hour
+2010,IN,Indiana,RES,residential,9.56,cents per kilowatt-hour
+2010,KS,Kansas,RES,residential,10.03,cents per kilowatt-hour
+2010,KY,Kentucky,RES,residential,8.57,cents per kilowatt-hour
+2010,LA,Louisiana,RES,residential,8.98,cents per kilowatt-hour
+2010,MA,Massachusetts,RES,residential,14.59,cents per kilowatt-hour
+2010,MAT,Middle Atlantic,RES,residential,15.81,cents per kilowatt-hour
+2010,MD,Maryland,RES,residential,14.32,cents per kilowatt-hour
+2010,ME,Maine,RES,residential,15.72,cents per kilowatt-hour
+2010,MI,Michigan,RES,residential,12.46,cents per kilowatt-hour
+2010,MN,Minnesota,RES,residential,10.59,cents per kilowatt-hour
+2010,MO,Missouri,RES,residential,9.08,cents per kilowatt-hour
+2010,MS,Mississippi,RES,residential,9.87,cents per kilowatt-hour
+2010,MT,Montana,RES,residential,9.16,cents per kilowatt-hour
+2010,MTN,Mountain,RES,residential,10.49,cents per kilowatt-hour
+2010,NC,North Carolina,RES,residential,10.12,cents per kilowatt-hour
+2010,ND,North Dakota,RES,residential,8.13,cents per kilowatt-hour
+2010,NE,Nebraska,RES,residential,8.94,cents per kilowatt-hour
+2010,NEW,New England,RES,residential,16.23,cents per kilowatt-hour
+2010,NH,New Hampshire,RES,residential,16.32,cents per kilowatt-hour
+2010,NJ,New Jersey,RES,residential,16.57,cents per kilowatt-hour
+2010,NM,New Mexico,RES,residential,10.52,cents per kilowatt-hour
+2010,NV,Nevada,RES,residential,12.36,cents per kilowatt-hour
+2010,NY,New York,RES,residential,18.74,cents per kilowatt-hour
+2010,OH,Ohio,RES,residential,11.31,cents per kilowatt-hour
+2010,OK,Oklahoma,RES,residential,9.14,cents per kilowatt-hour
+2010,OR,Oregon,RES,residential,8.87,cents per kilowatt-hour
+2010,PA,Pennsylvania,RES,residential,12.7,cents per kilowatt-hour
+2010,PACC,Pacific Contiguous,RES,residential,12.31,cents per kilowatt-hour
+2010,PACN,Pacific Noncontiguous,RES,residential,23.22,cents per kilowatt-hour
+2010,RI,Rhode Island,RES,residential,15.92,cents per kilowatt-hour
+2010,SAT,South Atlantic,RES,residential,10.96,cents per kilowatt-hour
+2010,SC,South Carolina,RES,residential,10.5,cents per kilowatt-hour
+2010,SD,South Dakota,RES,residential,8.97,cents per kilowatt-hour
+2010,TN,Tennessee,RES,residential,9.23,cents per kilowatt-hour
+2010,TX,Texas,RES,residential,11.6,cents per kilowatt-hour
+2010,US,U.S. Total,RES,residential,11.54,cents per kilowatt-hour
+2010,UT,Utah,RES,residential,8.71,cents per kilowatt-hour
+2010,VA,Virginia,RES,residential,10.45,cents per kilowatt-hour
+2010,VT,Vermont,RES,residential,15.57,cents per kilowatt-hour
+2010,WA,Washington,RES,residential,8.04,cents per kilowatt-hour
+2010,WI,Wisconsin,RES,residential,12.65,cents per kilowatt-hour
+2010,WNC,West North Central,RES,residential,9.64,cents per kilowatt-hour
+2010,WSC,West South Central,RES,residential,10.67,cents per kilowatt-hour
+2010,WV,West Virginia,RES,residential,8.79,cents per kilowatt-hour
+2010,WY,Wyoming,RES,residential,8.77,cents per kilowatt-hour
+2011,AK,Alaska,RES,residential,17.62,cents per kilowatt-hour
+2011,AL,Alabama,RES,residential,11.09,cents per kilowatt-hour
+2011,AR,Arkansas,RES,residential,9.02,cents per kilowatt-hour
+2011,AZ,Arizona,RES,residential,11.08,cents per kilowatt-hour
+2011,CA,California,RES,residential,14.78,cents per kilowatt-hour
+2011,CO,Colorado,RES,residential,11.27,cents per kilowatt-hour
+2011,CT,Connecticut,RES,residential,18.11,cents per kilowatt-hour
+2011,DC,District of Columbia,RES,residential,13.4,cents per kilowatt-hour
+2011,DE,Delaware,RES,residential,13.7,cents per kilowatt-hour
+2011,ENC,East North Central,RES,residential,11.79,cents per kilowatt-hour
+2011,ESC,East South Central,RES,residential,10.14,cents per kilowatt-hour
+2011,FL,Florida,RES,residential,11.51,cents per kilowatt-hour
+2011,GA,Georgia,RES,residential,11.05,cents per kilowatt-hour
+2011,HI,Hawaii,RES,residential,34.68,cents per kilowatt-hour
+2011,IA,Iowa,RES,residential,10.46,cents per kilowatt-hour
+2011,ID,Idaho,RES,residential,7.87,cents per kilowatt-hour
+2011,IL,Illinois,RES,residential,11.78,cents per kilowatt-hour
+2011,IN,Indiana,RES,residential,10.06,cents per kilowatt-hour
+2011,KS,Kansas,RES,residential,10.65,cents per kilowatt-hour
+2011,KY,Kentucky,RES,residential,9.2,cents per kilowatt-hour
+2011,LA,Louisiana,RES,residential,8.96,cents per kilowatt-hour
+2011,MA,Massachusetts,RES,residential,14.67,cents per kilowatt-hour
+2011,MAT,Middle Atlantic,RES,residential,15.8,cents per kilowatt-hour
+2011,MD,Maryland,RES,residential,13.31,cents per kilowatt-hour
+2011,ME,Maine,RES,residential,15.38,cents per kilowatt-hour
+2011,MI,Michigan,RES,residential,13.27,cents per kilowatt-hour
+2011,MN,Minnesota,RES,residential,10.96,cents per kilowatt-hour
+2011,MO,Missouri,RES,residential,9.75,cents per kilowatt-hour
+2011,MS,Mississippi,RES,residential,10.17,cents per kilowatt-hour
+2011,MT,Montana,RES,residential,9.75,cents per kilowatt-hour
+2011,MTN,Mountain,RES,residential,10.56,cents per kilowatt-hour
+2011,NC,North Carolina,RES,residential,10.26,cents per kilowatt-hour
+2011,ND,North Dakota,RES,residential,8.58,cents per kilowatt-hour
+2011,NE,Nebraska,RES,residential,9.32,cents per kilowatt-hour
+2011,NEW,New England,RES,residential,15.89,cents per kilowatt-hour
+2011,NH,New Hampshire,RES,residential,16.52,cents per kilowatt-hour
+2011,NJ,New Jersey,RES,residential,16.23,cents per kilowatt-hour
+2011,NM,New Mexico,RES,residential,11,cents per kilowatt-hour
+2011,NV,Nevada,RES,residential,11.61,cents per kilowatt-hour
+2011,NY,New York,RES,residential,18.26,cents per kilowatt-hour
+2011,OH,Ohio,RES,residential,11.42,cents per kilowatt-hour
+2011,OK,Oklahoma,RES,residential,9.47,cents per kilowatt-hour
+2011,OR,Oregon,RES,residential,9.54,cents per kilowatt-hour
+2011,PA,Pennsylvania,RES,residential,13.26,cents per kilowatt-hour
+2011,PACC,Pacific Contiguous,RES,residential,12.43,cents per kilowatt-hour
+2011,PACN,Pacific Noncontiguous,RES,residential,27.49,cents per kilowatt-hour
+2011,RI,Rhode Island,RES,residential,14.33,cents per kilowatt-hour
+2011,SAT,South Atlantic,RES,residential,11.19,cents per kilowatt-hour
+2011,SC,South Carolina,RES,residential,11.05,cents per kilowatt-hour
+2011,SD,South Dakota,RES,residential,9.35,cents per kilowatt-hour
+2011,TN,Tennessee,RES,residential,9.98,cents per kilowatt-hour
+2011,TX,Texas,RES,residential,11.08,cents per kilowatt-hour
+2011,US,U.S. Total,RES,residential,11.72,cents per kilowatt-hour
+2011,UT,Utah,RES,residential,8.96,cents per kilowatt-hour
+2011,VA,Virginia,RES,residential,10.64,cents per kilowatt-hour
+2011,VT,Vermont,RES,residential,16.26,cents per kilowatt-hour
+2011,WA,Washington,RES,residential,8.28,cents per kilowatt-hour
+2011,WI,Wisconsin,RES,residential,13.02,cents per kilowatt-hour
+2011,WNC,West North Central,RES,residential,10.12,cents per kilowatt-hour
+2011,WSC,West South Central,RES,residential,10.42,cents per kilowatt-hour
+2011,WV,West Virginia,RES,residential,9.39,cents per kilowatt-hour
+2011,WY,Wyoming,RES,residential,9.11,cents per kilowatt-hour
+2012,AK,Alaska,RES,residential,17.88,cents per kilowatt-hour
+2012,AL,Alabama,RES,residential,11.4,cents per kilowatt-hour
+2012,AR,Arkansas,RES,residential,9.3,cents per kilowatt-hour
+2012,AZ,Arizona,RES,residential,11.29,cents per kilowatt-hour
+2012,CA,California,RES,residential,15.34,cents per kilowatt-hour
+2012,CO,Colorado,RES,residential,11.46,cents per kilowatt-hour
+2012,CT,Connecticut,RES,residential,17.34,cents per kilowatt-hour
+2012,DC,District of Columbia,RES,residential,12.28,cents per kilowatt-hour
+2012,DE,Delaware,RES,residential,13.58,cents per kilowatt-hour
+2012,ENC,East North Central,RES,residential,12.05,cents per kilowatt-hour
+2012,ESC,East South Central,RES,residential,10.32,cents per kilowatt-hour
+2012,FL,Florida,RES,residential,11.42,cents per kilowatt-hour
+2012,GA,Georgia,RES,residential,11.17,cents per kilowatt-hour
+2012,HI,Hawaii,RES,residential,37.34,cents per kilowatt-hour
+2012,IA,Iowa,RES,residential,10.82,cents per kilowatt-hour
+2012,ID,Idaho,RES,residential,8.67,cents per kilowatt-hour
+2012,IL,Illinois,RES,residential,11.37,cents per kilowatt-hour
+2012,IN,Indiana,RES,residential,10.53,cents per kilowatt-hour
+2012,KS,Kansas,RES,residential,11.24,cents per kilowatt-hour
+2012,KY,Kentucky,RES,residential,9.43,cents per kilowatt-hour
+2012,LA,Louisiana,RES,residential,8.37,cents per kilowatt-hour
+2012,MA,Massachusetts,RES,residential,14.91,cents per kilowatt-hour
+2012,MAT,Middle Atlantic,RES,residential,15.27,cents per kilowatt-hour
+2012,MD,Maryland,RES,residential,12.84,cents per kilowatt-hour
+2012,ME,Maine,RES,residential,14.66,cents per kilowatt-hour
+2012,MI,Michigan,RES,residential,14.13,cents per kilowatt-hour
+2012,MN,Minnesota,RES,residential,11.35,cents per kilowatt-hour
+2012,MO,Missouri,RES,residential,10.17,cents per kilowatt-hour
+2012,MS,Mississippi,RES,residential,10.26,cents per kilowatt-hour
+2012,MT,Montana,RES,residential,10.08,cents per kilowatt-hour
+2012,MTN,Mountain,RES,residential,10.94,cents per kilowatt-hour
+2012,NC,North Carolina,RES,residential,10.91,cents per kilowatt-hour
+2012,ND,North Dakota,RES,residential,9.06,cents per kilowatt-hour
+2012,NE,Nebraska,RES,residential,10.04,cents per kilowatt-hour
+2012,NEW,New England,RES,residential,15.71,cents per kilowatt-hour
+2012,NH,New Hampshire,RES,residential,16.07,cents per kilowatt-hour
+2012,NJ,New Jersey,RES,residential,15.78,cents per kilowatt-hour
+2012,NM,New Mexico,RES,residential,11.37,cents per kilowatt-hour
+2012,NV,Nevada,RES,residential,11.83,cents per kilowatt-hour
+2012,NY,New York,RES,residential,17.62,cents per kilowatt-hour
+2012,OH,Ohio,RES,residential,11.76,cents per kilowatt-hour
+2012,OK,Oklahoma,RES,residential,9.51,cents per kilowatt-hour
+2012,OR,Oregon,RES,residential,9.8,cents per kilowatt-hour
+2012,PA,Pennsylvania,RES,residential,12.75,cents per kilowatt-hour
+2012,PACC,Pacific Contiguous,RES,residential,12.94,cents per kilowatt-hour
+2012,PACN,Pacific Noncontiguous,RES,residential,28.76,cents per kilowatt-hour
+2012,RI,Rhode Island,RES,residential,14.4,cents per kilowatt-hour
+2012,SAT,South Atlantic,RES,residential,11.38,cents per kilowatt-hour
+2012,SC,South Carolina,RES,residential,11.77,cents per kilowatt-hour
+2012,SD,South Dakota,RES,residential,10.07,cents per kilowatt-hour
+2012,TN,Tennessee,RES,residential,10.1,cents per kilowatt-hour
+2012,TX,Texas,RES,residential,10.98,cents per kilowatt-hour
+2012,US,U.S. Total,RES,residential,11.88,cents per kilowatt-hour
+2012,UT,Utah,RES,residential,9.93,cents per kilowatt-hour
+2012,VA,Virginia,RES,residential,11.08,cents per kilowatt-hour
+2012,VT,Vermont,RES,residential,17.01,cents per kilowatt-hour
+2012,WA,Washington,RES,residential,8.53,cents per kilowatt-hour
+2012,WI,Wisconsin,RES,residential,13.19,cents per kilowatt-hour
+2012,WNC,West North Central,RES,residential,10.59,cents per kilowatt-hour
+2012,WSC,West South Central,RES,residential,10.3,cents per kilowatt-hour
+2012,WV,West Virginia,RES,residential,9.85,cents per kilowatt-hour
+2012,WY,Wyoming,RES,residential,9.85,cents per kilowatt-hour
+2013,AK,Alaska,RES,residential,18.12,cents per kilowatt-hour
+2013,AL,Alabama,RES,residential,11.26,cents per kilowatt-hour
+2013,AR,Arkansas,RES,residential,9.59,cents per kilowatt-hour
+2013,AZ,Arizona,RES,residential,11.71,cents per kilowatt-hour
+2013,CA,California,RES,residential,16.23,cents per kilowatt-hour
+2013,CO,Colorado,RES,residential,11.93,cents per kilowatt-hour
+2013,CT,Connecticut,RES,residential,17.55,cents per kilowatt-hour
+2013,DC,District of Columbia,RES,residential,12.57,cents per kilowatt-hour
+2013,DE,Delaware,RES,residential,12.95,cents per kilowatt-hour
+2013,ENC,East North Central,RES,residential,12.14,cents per kilowatt-hour
+2013,ESC,East South Central,RES,residential,10.4,cents per kilowatt-hour
+2013,FL,Florida,RES,residential,11.27,cents per kilowatt-hour
+2013,GA,Georgia,RES,residential,11.46,cents per kilowatt-hour
+2013,HI,Hawaii,RES,residential,36.98,cents per kilowatt-hour
+2013,IA,Iowa,RES,residential,11.04,cents per kilowatt-hour
+2013,ID,Idaho,RES,residential,9.32,cents per kilowatt-hour
+2013,IL,Illinois,RES,residential,10.63,cents per kilowatt-hour
+2013,IN,Indiana,RES,residential,10.99,cents per kilowatt-hour
+2013,KS,Kansas,RES,residential,11.64,cents per kilowatt-hour
+2013,KY,Kentucky,RES,residential,9.79,cents per kilowatt-hour
+2013,LA,Louisiana,RES,residential,9.43,cents per kilowatt-hour
+2013,MA,Massachusetts,RES,residential,15.83,cents per kilowatt-hour
+2013,MAT,Middle Atlantic,RES,residential,15.7,cents per kilowatt-hour
+2013,MD,Maryland,RES,residential,13.25,cents per kilowatt-hour
+2013,ME,Maine,RES,residential,14.35,cents per kilowatt-hour
+2013,MI,Michigan,RES,residential,14.59,cents per kilowatt-hour
+2013,MN,Minnesota,RES,residential,11.81,cents per kilowatt-hour
+2013,MO,Missouri,RES,residential,10.6,cents per kilowatt-hour
+2013,MS,Mississippi,RES,residential,10.78,cents per kilowatt-hour
+2013,MT,Montana,RES,residential,10.33,cents per kilowatt-hour
+2013,MTN,Mountain,RES,residential,11.31,cents per kilowatt-hour
+2013,NC,North Carolina,RES,residential,10.97,cents per kilowatt-hour
+2013,ND,North Dakota,RES,residential,9.12,cents per kilowatt-hour
+2013,NE,Nebraska,RES,residential,10.31,cents per kilowatt-hour
+2013,NEW,New England,RES,residential,16.22,cents per kilowatt-hour
+2013,NH,New Hampshire,RES,residential,16.33,cents per kilowatt-hour
+2013,NJ,New Jersey,RES,residential,15.73,cents per kilowatt-hour
+2013,NM,New Mexico,RES,residential,11.68,cents per kilowatt-hour
+2013,NV,Nevada,RES,residential,11.89,cents per kilowatt-hour
+2013,NY,New York,RES,residential,18.79,cents per kilowatt-hour
+2013,OH,Ohio,RES,residential,12.01,cents per kilowatt-hour
+2013,OK,Oklahoma,RES,residential,9.67,cents per kilowatt-hour
+2013,OR,Oregon,RES,residential,9.9,cents per kilowatt-hour
+2013,PA,Pennsylvania,RES,residential,12.79,cents per kilowatt-hour
+2013,PACC,Pacific Contiguous,RES,residential,13.51,cents per kilowatt-hour
+2013,PACN,Pacific Noncontiguous,RES,residential,28.56,cents per kilowatt-hour
+2013,RI,Rhode Island,RES,residential,15.2,cents per kilowatt-hour
+2013,SAT,South Atlantic,RES,residential,11.39,cents per kilowatt-hour
+2013,SC,South Carolina,RES,residential,11.99,cents per kilowatt-hour
+2013,SD,South Dakota,RES,residential,10.26,cents per kilowatt-hour
+2013,TN,Tennessee,RES,residential,9.98,cents per kilowatt-hour
+2013,TX,Texas,RES,residential,11.35,cents per kilowatt-hour
+2013,US,U.S. Total,RES,residential,12.13,cents per kilowatt-hour
+2013,UT,Utah,RES,residential,10.37,cents per kilowatt-hour
+2013,VA,Virginia,RES,residential,10.84,cents per kilowatt-hour
+2013,VT,Vermont,RES,residential,17.14,cents per kilowatt-hour
+2013,WA,Washington,RES,residential,8.7,cents per kilowatt-hour
+2013,WI,Wisconsin,RES,residential,13.55,cents per kilowatt-hour
+2013,WNC,West North Central,RES,residential,10.94,cents per kilowatt-hour
+2013,WSC,West South Central,RES,residential,10.74,cents per kilowatt-hour
+2013,WV,West Virginia,RES,residential,9.52,cents per kilowatt-hour
+2013,WY,Wyoming,RES,residential,10.16,cents per kilowatt-hour
+2014,AK,Alaska,RES,residential,19.14,cents per kilowatt-hour
+2014,AL,Alabama,RES,residential,11.48,cents per kilowatt-hour
+2014,AR,Arkansas,RES,residential,9.51,cents per kilowatt-hour
+2014,AZ,Arizona,RES,residential,11.9,cents per kilowatt-hour
+2014,CA,California,RES,residential,16.25,cents per kilowatt-hour
+2014,CO,Colorado,RES,residential,12.18,cents per kilowatt-hour
+2014,CT,Connecticut,RES,residential,19.75,cents per kilowatt-hour
+2014,DC,District of Columbia,RES,residential,12.74,cents per kilowatt-hour
+2014,DE,Delaware,RES,residential,13.29,cents per kilowatt-hour
+2014,ENC,East North Central,RES,residential,12.65,cents per kilowatt-hour
+2014,ESC,East South Central,RES,residential,10.76,cents per kilowatt-hour
+2014,FL,Florida,RES,residential,11.89,cents per kilowatt-hour
+2014,GA,Georgia,RES,residential,11.65,cents per kilowatt-hour
+2014,HI,Hawaii,RES,residential,37.04,cents per kilowatt-hour
+2014,IA,Iowa,RES,residential,11.16,cents per kilowatt-hour
+2014,ID,Idaho,RES,residential,9.72,cents per kilowatt-hour
+2014,IL,Illinois,RES,residential,11.91,cents per kilowatt-hour
+2014,IN,Indiana,RES,residential,11.46,cents per kilowatt-hour
+2014,KS,Kansas,RES,residential,12.17,cents per kilowatt-hour
+2014,KY,Kentucky,RES,residential,10.16,cents per kilowatt-hour
+2014,LA,Louisiana,RES,residential,9.57,cents per kilowatt-hour
+2014,MA,Massachusetts,RES,residential,17.39,cents per kilowatt-hour
+2014,MAT,Middle Atlantic,RES,residential,16.39,cents per kilowatt-hour
+2014,MD,Maryland,RES,residential,13.63,cents per kilowatt-hour
+2014,ME,Maine,RES,residential,15.27,cents per kilowatt-hour
+2014,MI,Michigan,RES,residential,14.46,cents per kilowatt-hour
+2014,MN,Minnesota,RES,residential,12.01,cents per kilowatt-hour
+2014,MO,Missouri,RES,residential,10.64,cents per kilowatt-hour
+2014,MS,Mississippi,RES,residential,11.32,cents per kilowatt-hour
+2014,MT,Montana,RES,residential,10.18,cents per kilowatt-hour
+2014,MTN,Mountain,RES,residential,11.67,cents per kilowatt-hour
+2014,NC,North Carolina,RES,residential,11.1,cents per kilowatt-hour
+2014,ND,North Dakota,RES,residential,9.15,cents per kilowatt-hour
+2014,NE,Nebraska,RES,residential,10.4,cents per kilowatt-hour
+2014,NEW,New England,RES,residential,17.82,cents per kilowatt-hour
+2014,NH,New Hampshire,RES,residential,17.53,cents per kilowatt-hour
+2014,NJ,New Jersey,RES,residential,15.78,cents per kilowatt-hour
+2014,NM,New Mexico,RES,residential,12.28,cents per kilowatt-hour
+2014,NV,Nevada,RES,residential,12.93,cents per kilowatt-hour
+2014,NY,New York,RES,residential,20.07,cents per kilowatt-hour
+2014,OH,Ohio,RES,residential,12.5,cents per kilowatt-hour
+2014,OK,Oklahoma,RES,residential,10.03,cents per kilowatt-hour
+2014,OR,Oregon,RES,residential,10.47,cents per kilowatt-hour
+2014,PA,Pennsylvania,RES,residential,13.32,cents per kilowatt-hour
+2014,PACC,Pacific Contiguous,RES,residential,13.64,cents per kilowatt-hour
+2014,PACN,Pacific Noncontiguous,RES,residential,29.13,cents per kilowatt-hour
+2014,RI,Rhode Island,RES,residential,17.17,cents per kilowatt-hour
+2014,SAT,South Atlantic,RES,residential,11.74,cents per kilowatt-hour
+2014,SC,South Carolina,RES,residential,12.45,cents per kilowatt-hour
+2014,SD,South Dakota,RES,residential,10.47,cents per kilowatt-hour
+2014,TN,Tennessee,RES,residential,10.32,cents per kilowatt-hour
+2014,TX,Texas,RES,residential,11.86,cents per kilowatt-hour
+2014,US,U.S. Total,RES,residential,12.52,cents per kilowatt-hour
+2014,UT,Utah,RES,residential,10.65,cents per kilowatt-hour
+2014,VA,Virginia,RES,residential,11.1,cents per kilowatt-hour
+2014,VT,Vermont,RES,residential,17.47,cents per kilowatt-hour
+2014,WA,Washington,RES,residential,8.67,cents per kilowatt-hour
+2014,WI,Wisconsin,RES,residential,13.67,cents per kilowatt-hour
+2014,WNC,West North Central,RES,residential,11.09,cents per kilowatt-hour
+2014,WSC,West South Central,RES,residential,11.12,cents per kilowatt-hour
+2014,WV,West Virginia,RES,residential,9.34,cents per kilowatt-hour
+2014,WY,Wyoming,RES,residential,10.5,cents per kilowatt-hour
+2015,AK,Alaska,RES,residential,19.83,cents per kilowatt-hour
+2015,AL,Alabama,RES,residential,11.7,cents per kilowatt-hour
+2015,AR,Arkansas,RES,residential,9.82,cents per kilowatt-hour
+2015,AZ,Arizona,RES,residential,12.13,cents per kilowatt-hour
+2015,CA,California,RES,residential,16.99,cents per kilowatt-hour
+2015,CO,Colorado,RES,residential,12.12,cents per kilowatt-hour
+2015,CT,Connecticut,RES,residential,20.94,cents per kilowatt-hour
+2015,DC,District of Columbia,RES,residential,12.99,cents per kilowatt-hour
+2015,DE,Delaware,RES,residential,13.42,cents per kilowatt-hour
+2015,ENC,East North Central,RES,residential,12.96,cents per kilowatt-hour
+2015,ESC,East South Central,RES,residential,10.82,cents per kilowatt-hour
+2015,FL,Florida,RES,residential,11.58,cents per kilowatt-hour
+2015,GA,Georgia,RES,residential,11.54,cents per kilowatt-hour
+2015,HI,Hawaii,RES,residential,29.6,cents per kilowatt-hour
+2015,IA,Iowa,RES,residential,11.63,cents per kilowatt-hour
+2015,ID,Idaho,RES,residential,9.93,cents per kilowatt-hour
+2015,IL,Illinois,RES,residential,12.5,cents per kilowatt-hour
+2015,IN,Indiana,RES,residential,11.57,cents per kilowatt-hour
+2015,KS,Kansas,RES,residential,12.34,cents per kilowatt-hour
+2015,KY,Kentucky,RES,residential,10.24,cents per kilowatt-hour
+2015,LA,Louisiana,RES,residential,9.33,cents per kilowatt-hour
+2015,MA,Massachusetts,RES,residential,19.83,cents per kilowatt-hour
+2015,MAT,Middle Atlantic,RES,residential,15.97,cents per kilowatt-hour
+2015,MD,Maryland,RES,residential,13.82,cents per kilowatt-hour
+2015,ME,Maine,RES,residential,15.61,cents per kilowatt-hour
+2015,MI,Michigan,RES,residential,14.42,cents per kilowatt-hour
+2015,MN,Minnesota,RES,residential,12.12,cents per kilowatt-hour
+2015,MO,Missouri,RES,residential,11.21,cents per kilowatt-hour
+2015,MS,Mississippi,RES,residential,11.27,cents per kilowatt-hour
+2015,MT,Montana,RES,residential,10.88,cents per kilowatt-hour
+2015,MTN,Mountain,RES,residential,11.83,cents per kilowatt-hour
+2015,NC,North Carolina,RES,residential,11.28,cents per kilowatt-hour
+2015,ND,North Dakota,RES,residential,9.62,cents per kilowatt-hour
+2015,NE,Nebraska,RES,residential,10.6,cents per kilowatt-hour
+2015,NEW,New England,RES,residential,19.43,cents per kilowatt-hour
+2015,NH,New Hampshire,RES,residential,18.5,cents per kilowatt-hour
+2015,NJ,New Jersey,RES,residential,15.81,cents per kilowatt-hour
+2015,NM,New Mexico,RES,residential,12.47,cents per kilowatt-hour
+2015,NV,Nevada,RES,residential,12.76,cents per kilowatt-hour
+2015,NY,New York,RES,residential,18.54,cents per kilowatt-hour
+2015,OH,Ohio,RES,residential,12.8,cents per kilowatt-hour
+2015,OK,Oklahoma,RES,residential,10.14,cents per kilowatt-hour
+2015,OR,Oregon,RES,residential,10.66,cents per kilowatt-hour
+2015,PA,Pennsylvania,RES,residential,13.64,cents per kilowatt-hour
+2015,PACC,Pacific Contiguous,RES,residential,14.28,cents per kilowatt-hour
+2015,PACN,Pacific Noncontiguous,RES,residential,25.34,cents per kilowatt-hour
+2015,RI,Rhode Island,RES,residential,19.29,cents per kilowatt-hour
+2015,SAT,South Atlantic,RES,residential,11.74,cents per kilowatt-hour
+2015,SC,South Carolina,RES,residential,12.57,cents per kilowatt-hour
+2015,SD,South Dakota,RES,residential,11.08,cents per kilowatt-hour
+2015,TN,Tennessee,RES,residential,10.3,cents per kilowatt-hour
+2015,TX,Texas,RES,residential,11.56,cents per kilowatt-hour
+2015,US,U.S. Total,RES,residential,12.65,cents per kilowatt-hour
+2015,UT,Utah,RES,residential,10.88,cents per kilowatt-hour
+2015,VA,Virginia,RES,residential,11.37,cents per kilowatt-hour
+2015,VT,Vermont,RES,residential,17.09,cents per kilowatt-hour
+2015,WA,Washington,RES,residential,9.09,cents per kilowatt-hour
+2015,WI,Wisconsin,RES,residential,14.11,cents per kilowatt-hour
+2015,WNC,West North Central,RES,residential,11.47,cents per kilowatt-hour
+2015,WSC,West South Central,RES,residential,10.95,cents per kilowatt-hour
+2015,WV,West Virginia,RES,residential,10.08,cents per kilowatt-hour
+2015,WY,Wyoming,RES,residential,10.97,cents per kilowatt-hour
+2016,AK,Alaska,RES,residential,,cents per kilowatt-hour
+2016,AL,Alabama,RES,residential,11.99,cents per kilowatt-hour
+2016,AR,Arkansas,RES,residential,9.92,cents per kilowatt-hour
+2016,AZ,Arizona,RES,residential,12.15,cents per kilowatt-hour
+2016,CA,California,RES,residential,17.39,cents per kilowatt-hour
+2016,CO,Colorado,RES,residential,12.07,cents per kilowatt-hour
+2016,CT,Connecticut,RES,residential,20.01,cents per kilowatt-hour
+2016,DC,District of Columbia,RES,residential,12.29,cents per kilowatt-hour
+2016,DE,Delaware,RES,residential,13.42,cents per kilowatt-hour
+2016,ENC,East North Central,RES,residential,13.06,cents per kilowatt-hour
+2016,ESC,East South Central,RES,residential,10.86,cents per kilowatt-hour
+2016,FL,Florida,RES,residential,10.98,cents per kilowatt-hour
+2016,GA,Georgia,RES,residential,11.5,cents per kilowatt-hour
+2016,HI,Hawaii,RES,residential,27.47,cents per kilowatt-hour
+2016,IA,Iowa,RES,residential,11.94,cents per kilowatt-hour
+2016,ID,Idaho,RES,residential,9.95,cents per kilowatt-hour
+2016,IL,Illinois,RES,residential,12.54,cents per kilowatt-hour
+2016,IN,Indiana,RES,residential,11.79,cents per kilowatt-hour
+2016,KS,Kansas,RES,residential,13.06,cents per kilowatt-hour
+2016,KY,Kentucky,RES,residential,10.49,cents per kilowatt-hour
+2016,LA,Louisiana,RES,residential,9.34,cents per kilowatt-hour
+2016,MA,Massachusetts,RES,residential,19,cents per kilowatt-hour
+2016,MAT,Middle Atlantic,RES,residential,15.68,cents per kilowatt-hour
+2016,MD,Maryland,RES,residential,14.23,cents per kilowatt-hour
+2016,ME,Maine,RES,residential,15.83,cents per kilowatt-hour
+2016,MI,Michigan,RES,residential,15.22,cents per kilowatt-hour
+2016,MN,Minnesota,RES,residential,12.67,cents per kilowatt-hour
+2016,MO,Missouri,RES,residential,11.21,cents per kilowatt-hour
+2016,MS,Mississippi,RES,residential,10.47,cents per kilowatt-hour
+2016,MT,Montana,RES,residential,10.94,cents per kilowatt-hour
+2016,MTN,Mountain,RES,residential,11.65,cents per kilowatt-hour
+2016,NC,North Carolina,RES,residential,11.03,cents per kilowatt-hour
+2016,ND,North Dakota,RES,residential,10.16,cents per kilowatt-hour
+2016,NE,Nebraska,RES,residential,10.84,cents per kilowatt-hour
+2016,NEW,New England,RES,residential,18.81,cents per kilowatt-hour
+2016,NH,New Hampshire,RES,residential,18.38,cents per kilowatt-hour
+2016,NJ,New Jersey,RES,residential,15.72,cents per kilowatt-hour
+2016,NM,New Mexico,RES,residential,12.03,cents per kilowatt-hour
+2016,NV,Nevada,RES,residential,11.41,cents per kilowatt-hour
+2016,NY,New York,RES,residential,17.58,cents per kilowatt-hour
+2016,OH,Ohio,RES,residential,12.47,cents per kilowatt-hour
+2016,OK,Oklahoma,RES,residential,10.2,cents per kilowatt-hour
+2016,OR,Oregon,RES,residential,10.66,cents per kilowatt-hour
+2016,PA,Pennsylvania,RES,residential,13.86,cents per kilowatt-hour
+2016,PACC,Pacific Contiguous,RES,residential,14.59,cents per kilowatt-hour
+2016,PACN,Pacific Noncontiguous,RES,residential,24.36,cents per kilowatt-hour
+2016,RI,Rhode Island,RES,residential,18.62,cents per kilowatt-hour
+2016,SAT,South Atlantic,RES,residential,11.56,cents per kilowatt-hour
+2016,SC,South Carolina,RES,residential,12.65,cents per kilowatt-hour
+2016,SD,South Dakota,RES,residential,11.47,cents per kilowatt-hour
+2016,TN,Tennessee,RES,residential,10.41,cents per kilowatt-hour
+2016,TX,Texas,RES,residential,10.99,cents per kilowatt-hour
+2016,US,U.S. Total,RES,residential,12.55,cents per kilowatt-hour
+2016,UT,Utah,RES,residential,11.02,cents per kilowatt-hour
+2016,VA,Virginia,RES,residential,11.36,cents per kilowatt-hour
+2016,VT,Vermont,RES,residential,17.37,cents per kilowatt-hour
+2016,WA,Washington,RES,residential,9.48,cents per kilowatt-hour
+2016,WI,Wisconsin,RES,residential,14.07,cents per kilowatt-hour
+2016,WNC,West North Central,RES,residential,11.79,cents per kilowatt-hour
+2016,WSC,West South Central,RES,residential,10.59,cents per kilowatt-hour
+2016,WV,West Virginia,RES,residential,11.44,cents per kilowatt-hour
+2016,WY,Wyoming,RES,residential,11.13,cents per kilowatt-hour
+2017,AK,Alaska,RES,residential,21.27,cents per kilowatt-hour
+2017,AL,Alabama,RES,residential,12.55,cents per kilowatt-hour
+2017,AR,Arkansas,RES,residential,10.28,cents per kilowatt-hour
+2017,AZ,Arizona,RES,residential,12.44,cents per kilowatt-hour
+2017,CA,California,RES,residential,18.31,cents per kilowatt-hour
+2017,CO,Colorado,RES,residential,12.17,cents per kilowatt-hour
+2017,CT,Connecticut,RES,residential,20.29,cents per kilowatt-hour
+2017,DC,District of Columbia,RES,residential,12.94,cents per kilowatt-hour
+2017,DE,Delaware,RES,residential,13.35,cents per kilowatt-hour
+2017,ENC,East North Central,RES,residential,13.36,cents per kilowatt-hour
+2017,ESC,East South Central,RES,residential,11.3,cents per kilowatt-hour
+2017,FL,Florida,RES,residential,11.61,cents per kilowatt-hour
+2017,GA,Georgia,RES,residential,11.9,cents per kilowatt-hour
+2017,HI,Hawaii,RES,residential,29.5,cents per kilowatt-hour
+2017,IA,Iowa,RES,residential,12.34,cents per kilowatt-hour
+2017,ID,Idaho,RES,residential,10.04,cents per kilowatt-hour
+2017,IL,Illinois,RES,residential,12.95,cents per kilowatt-hour
+2017,IN,Indiana,RES,residential,12.29,cents per kilowatt-hour
+2017,KS,Kansas,RES,residential,13.31,cents per kilowatt-hour
+2017,KY,Kentucky,RES,residential,10.85,cents per kilowatt-hour
+2017,LA,Louisiana,RES,residential,9.74,cents per kilowatt-hour
+2017,MA,Massachusetts,RES,residential,20.06,cents per kilowatt-hour
+2017,MAT,Middle Atlantic,RES,residential,15.99,cents per kilowatt-hour
+2017,MD,Maryland,RES,residential,13.96,cents per kilowatt-hour
+2017,ME,Maine,RES,residential,15.97,cents per kilowatt-hour
+2017,MI,Michigan,RES,residential,15.4,cents per kilowatt-hour
+2017,MN,Minnesota,RES,residential,13.04,cents per kilowatt-hour
+2017,MO,Missouri,RES,residential,11.63,cents per kilowatt-hour
+2017,MS,Mississippi,RES,residential,11.08,cents per kilowatt-hour
+2017,MT,Montana,RES,residential,10.95,cents per kilowatt-hour
+2017,MTN,Mountain,RES,residential,11.89,cents per kilowatt-hour
+2017,NC,North Carolina,RES,residential,10.94,cents per kilowatt-hour
+2017,ND,North Dakota,RES,residential,10.29,cents per kilowatt-hour
+2017,NE,Nebraska,RES,residential,10.97,cents per kilowatt-hour
+2017,NEW,New England,RES,residential,19.41,cents per kilowatt-hour
+2017,NH,New Hampshire,RES,residential,19.2,cents per kilowatt-hour
+2017,NJ,New Jersey,RES,residential,15.65,cents per kilowatt-hour
+2017,NM,New Mexico,RES,residential,12.88,cents per kilowatt-hour
+2017,NV,Nevada,RES,residential,11.99,cents per kilowatt-hour
+2017,NY,New York,RES,residential,18.03,cents per kilowatt-hour
+2017,OH,Ohio,RES,residential,12.63,cents per kilowatt-hour
+2017,OK,Oklahoma,RES,residential,10.61,cents per kilowatt-hour
+2017,OR,Oregon,RES,residential,10.66,cents per kilowatt-hour
+2017,PA,Pennsylvania,RES,residential,14.23,cents per kilowatt-hour
+2017,PACC,Pacific Contiguous,RES,residential,15.08,cents per kilowatt-hour
+2017,PACN,Pacific Noncontiguous,RES,residential,25.89,cents per kilowatt-hour
+2017,RI,Rhode Island,RES,residential,18.32,cents per kilowatt-hour
+2017,SAT,South Atlantic,RES,residential,11.86,cents per kilowatt-hour
+2017,SC,South Carolina,RES,residential,13.02,cents per kilowatt-hour
+2017,SD,South Dakota,RES,residential,11.77,cents per kilowatt-hour
+2017,TN,Tennessee,RES,residential,10.72,cents per kilowatt-hour
+2017,TX,Texas,RES,residential,11.01,cents per kilowatt-hour
+2017,US,U.S. Total,RES,residential,12.89,cents per kilowatt-hour
+2017,UT,Utah,RES,residential,10.95,cents per kilowatt-hour
+2017,VA,Virginia,RES,residential,11.55,cents per kilowatt-hour
+2017,VT,Vermont,RES,residential,17.68,cents per kilowatt-hour
+2017,WA,Washington,RES,residential,9.66,cents per kilowatt-hour
+2017,WI,Wisconsin,RES,residential,14.35,cents per kilowatt-hour
+2017,WNC,West North Central,RES,residential,12.13,cents per kilowatt-hour
+2017,WSC,West South Central,RES,residential,10.74,cents per kilowatt-hour
+2017,WV,West Virginia,RES,residential,11.63,cents per kilowatt-hour
+2017,WY,Wyoming,RES,residential,11.37,cents per kilowatt-hour
+2018,AK,Alaska,RES,residential,21.94,cents per kilowatt-hour
+2018,AL,Alabama,RES,residential,12.18,cents per kilowatt-hour
+2018,AR,Arkansas,RES,residential,9.81,cents per kilowatt-hour
+2018,AZ,Arizona,RES,residential,12.77,cents per kilowatt-hour
+2018,CA,California,RES,residential,18.84,cents per kilowatt-hour
+2018,CO,Colorado,RES,residential,12.15,cents per kilowatt-hour
+2018,CT,Connecticut,RES,residential,21.2,cents per kilowatt-hour
+2018,DC,District of Columbia,RES,residential,12.84,cents per kilowatt-hour
+2018,DE,Delaware,RES,residential,12.53,cents per kilowatt-hour
+2018,ENC,East North Central,RES,residential,13.25,cents per kilowatt-hour
+2018,ESC,East South Central,RES,residential,11.14,cents per kilowatt-hour
+2018,FL,Florida,RES,residential,11.54,cents per kilowatt-hour
+2018,GA,Georgia,RES,residential,11.47,cents per kilowatt-hour
+2018,HI,Hawaii,RES,residential,32.47,cents per kilowatt-hour
+2018,IA,Iowa,RES,residential,12.24,cents per kilowatt-hour
+2018,ID,Idaho,RES,residential,10.15,cents per kilowatt-hour
+2018,IL,Illinois,RES,residential,12.77,cents per kilowatt-hour
+2018,IN,Indiana,RES,residential,12.26,cents per kilowatt-hour
+2018,KS,Kansas,RES,residential,13.35,cents per kilowatt-hour
+2018,KY,Kentucky,RES,residential,10.6,cents per kilowatt-hour
+2018,LA,Louisiana,RES,residential,9.59,cents per kilowatt-hour
+2018,MA,Massachusetts,RES,residential,21.61,cents per kilowatt-hour
+2018,MAT,Middle Atlantic,RES,residential,15.97,cents per kilowatt-hour
+2018,MD,Maryland,RES,residential,13.3,cents per kilowatt-hour
+2018,ME,Maine,RES,residential,16.84,cents per kilowatt-hour
+2018,MI,Michigan,RES,residential,15.45,cents per kilowatt-hour
+2018,MN,Minnesota,RES,residential,13.14,cents per kilowatt-hour
+2018,MO,Missouri,RES,residential,11.34,cents per kilowatt-hour
+2018,MS,Mississippi,RES,residential,11.12,cents per kilowatt-hour
+2018,MT,Montana,RES,residential,10.96,cents per kilowatt-hour
+2018,MTN,Mountain,RES,residential,11.94,cents per kilowatt-hour
+2018,NC,North Carolina,RES,residential,11.09,cents per kilowatt-hour
+2018,ND,North Dakota,RES,residential,10.25,cents per kilowatt-hour
+2018,NE,Nebraska,RES,residential,10.7,cents per kilowatt-hour
+2018,NEW,New England,RES,residential,20.6,cents per kilowatt-hour
+2018,NH,New Hampshire,RES,residential,19.69,cents per kilowatt-hour
+2018,NJ,New Jersey,RES,residential,15.41,cents per kilowatt-hour
+2018,NM,New Mexico,RES,residential,12.68,cents per kilowatt-hour
+2018,NV,Nevada,RES,residential,11.85,cents per kilowatt-hour
+2018,NY,New York,RES,residential,18.52,cents per kilowatt-hour
+2018,OH,Ohio,RES,residential,12.56,cents per kilowatt-hour
+2018,OK,Oklahoma,RES,residential,10.3,cents per kilowatt-hour
+2018,OR,Oregon,RES,residential,10.98,cents per kilowatt-hour
+2018,PA,Pennsylvania,RES,residential,13.89,cents per kilowatt-hour
+2018,PACC,Pacific Contiguous,RES,residential,15.56,cents per kilowatt-hour
+2018,PACN,Pacific Noncontiguous,RES,residential,28.03,cents per kilowatt-hour
+2018,RI,Rhode Island,RES,residential,20.55,cents per kilowatt-hour
+2018,SAT,South Atlantic,RES,residential,11.7,cents per kilowatt-hour
+2018,SC,South Carolina,RES,residential,12.44,cents per kilowatt-hour
+2018,SD,South Dakota,RES,residential,11.59,cents per kilowatt-hour
+2018,TN,Tennessee,RES,residential,10.71,cents per kilowatt-hour
+2018,TX,Texas,RES,residential,11.2,cents per kilowatt-hour
+2018,US,U.S. Total,RES,residential,12.87,cents per kilowatt-hour
+2018,UT,Utah,RES,residential,10.41,cents per kilowatt-hour
+2018,VA,Virginia,RES,residential,11.73,cents per kilowatt-hour
+2018,VT,Vermont,RES,residential,18.02,cents per kilowatt-hour
+2018,WA,Washington,RES,residential,9.75,cents per kilowatt-hour
+2018,WI,Wisconsin,RES,residential,14.02,cents per kilowatt-hour
+2018,WNC,West North Central,RES,residential,12,cents per kilowatt-hour
+2018,WSC,West South Central,RES,residential,10.77,cents per kilowatt-hour
+2018,WV,West Virginia,RES,residential,11.18,cents per kilowatt-hour
+2018,WY,Wyoming,RES,residential,11.29,cents per kilowatt-hour
+2019,AK,Alaska,RES,residential,22.92,cents per kilowatt-hour
+2019,AL,Alabama,RES,residential,12.53,cents per kilowatt-hour
+2019,AR,Arkansas,RES,residential,9.8,cents per kilowatt-hour
+2019,AZ,Arizona,RES,residential,12.43,cents per kilowatt-hour
+2019,CA,California,RES,residential,19.15,cents per kilowatt-hour
+2019,CO,Colorado,RES,residential,12.18,cents per kilowatt-hour
+2019,CT,Connecticut,RES,residential,21.87,cents per kilowatt-hour
+2019,DC,District of Columbia,RES,residential,12.98,cents per kilowatt-hour
+2019,DE,Delaware,RES,residential,12.55,cents per kilowatt-hour
+2019,ENC,East North Central,RES,residential,13.39,cents per kilowatt-hour
+2019,ESC,East South Central,RES,residential,11.36,cents per kilowatt-hour
+2019,FL,Florida,RES,residential,11.7,cents per kilowatt-hour
+2019,GA,Georgia,RES,residential,11.76,cents per kilowatt-hour
+2019,HI,Hawaii,RES,residential,32.06,cents per kilowatt-hour
+2019,IA,Iowa,RES,residential,12.46,cents per kilowatt-hour
+2019,ID,Idaho,RES,residential,9.89,cents per kilowatt-hour
+2019,IL,Illinois,RES,residential,13.03,cents per kilowatt-hour
+2019,IN,Indiana,RES,residential,12.58,cents per kilowatt-hour
+2019,KS,Kansas,RES,residential,12.71,cents per kilowatt-hour
+2019,KY,Kentucky,RES,residential,10.8,cents per kilowatt-hour
+2019,LA,Louisiana,RES,residential,9.8,cents per kilowatt-hour
+2019,MA,Massachusetts,RES,residential,21.92,cents per kilowatt-hour
+2019,MAT,Middle Atlantic,RES,residential,15.8,cents per kilowatt-hour
+2019,MD,Maryland,RES,residential,13.12,cents per kilowatt-hour
+2019,ME,Maine,RES,residential,17.89,cents per kilowatt-hour
+2019,MI,Michigan,RES,residential,15.74,cents per kilowatt-hour
+2019,MN,Minnesota,RES,residential,13.04,cents per kilowatt-hour
+2019,MO,Missouri,RES,residential,11.14,cents per kilowatt-hour
+2019,MS,Mississippi,RES,residential,11.27,cents per kilowatt-hour
+2019,MT,Montana,RES,residential,11.13,cents per kilowatt-hour
+2019,MTN,Mountain,RES,residential,11.81,cents per kilowatt-hour
+2019,NC,North Carolina,RES,residential,11.42,cents per kilowatt-hour
+2019,ND,North Dakota,RES,residential,10.3,cents per kilowatt-hour
+2019,NE,Nebraska,RES,residential,10.77,cents per kilowatt-hour
+2019,NEW,New England,RES,residential,21.1,cents per kilowatt-hour
+2019,NH,New Hampshire,RES,residential,20.05,cents per kilowatt-hour
+2019,NJ,New Jersey,RES,residential,15.85,cents per kilowatt-hour
+2019,NM,New Mexico,RES,residential,12.51,cents per kilowatt-hour
+2019,NV,Nevada,RES,residential,12,cents per kilowatt-hour
+2019,NY,New York,RES,residential,17.94,cents per kilowatt-hour
+2019,OH,Ohio,RES,residential,12.38,cents per kilowatt-hour
+2019,OK,Oklahoma,RES,residential,10.21,cents per kilowatt-hour
+2019,OR,Oregon,RES,residential,11.01,cents per kilowatt-hour
+2019,PA,Pennsylvania,RES,residential,13.8,cents per kilowatt-hour
+2019,PACC,Pacific Contiguous,RES,residential,15.65,cents per kilowatt-hour
+2019,PACN,Pacific Noncontiguous,RES,residential,28.3,cents per kilowatt-hour
+2019,RI,Rhode Island,RES,residential,21.73,cents per kilowatt-hour
+2019,SAT,South Atlantic,RES,residential,11.93,cents per kilowatt-hour
+2019,SC,South Carolina,RES,residential,12.99,cents per kilowatt-hour
+2019,SD,South Dakota,RES,residential,11.55,cents per kilowatt-hour
+2019,TN,Tennessee,RES,residential,10.87,cents per kilowatt-hour
+2019,TX,Texas,RES,residential,11.76,cents per kilowatt-hour
+2019,US,U.S. Total,RES,residential,13.01,cents per kilowatt-hour
+2019,UT,Utah,RES,residential,10.4,cents per kilowatt-hour
+2019,VA,Virginia,RES,residential,12.07,cents per kilowatt-hour
+2019,VT,Vermont,RES,residential,17.71,cents per kilowatt-hour
+2019,WA,Washington,RES,residential,9.71,cents per kilowatt-hour
+2019,WI,Wisconsin,RES,residential,14.18,cents per kilowatt-hour
+2019,WNC,West North Central,RES,residential,11.86,cents per kilowatt-hour
+2019,WSC,West South Central,RES,residential,11.17,cents per kilowatt-hour
+2019,WV,West Virginia,RES,residential,11.25,cents per kilowatt-hour
+2019,WY,Wyoming,RES,residential,11.18,cents per kilowatt-hour
+2020,AK,Alaska,RES,residential,22.57,cents per kilowatt-hour
+2020,AL,Alabama,RES,residential,12.57,cents per kilowatt-hour
+2020,AR,Arkansas,RES,residential,10.41,cents per kilowatt-hour
+2020,AZ,Arizona,RES,residential,12.27,cents per kilowatt-hour
+2020,CA,California,RES,residential,20.45,cents per kilowatt-hour
+2020,CO,Colorado,RES,residential,12.36,cents per kilowatt-hour
+2020,CT,Connecticut,RES,residential,22.71,cents per kilowatt-hour
+2020,DC,District of Columbia,RES,residential,12.63,cents per kilowatt-hour
+2020,DE,Delaware,RES,residential,12.56,cents per kilowatt-hour
+2020,ENC,East North Central,RES,residential,13.56,cents per kilowatt-hour
+2020,ESC,East South Central,RES,residential,11.34,cents per kilowatt-hour
+2020,FL,Florida,RES,residential,11.27,cents per kilowatt-hour
+2020,GA,Georgia,RES,residential,12.02,cents per kilowatt-hour
+2020,HI,Hawaii,RES,residential,30.28,cents per kilowatt-hour
+2020,IA,Iowa,RES,residential,12.46,cents per kilowatt-hour
+2020,ID,Idaho,RES,residential,9.95,cents per kilowatt-hour
+2020,IL,Illinois,RES,residential,13.04,cents per kilowatt-hour
+2020,IN,Indiana,RES,residential,12.83,cents per kilowatt-hour
+2020,KS,Kansas,RES,residential,12.85,cents per kilowatt-hour
+2020,KY,Kentucky,RES,residential,10.87,cents per kilowatt-hour
+2020,LA,Louisiana,RES,residential,9.67,cents per kilowatt-hour
+2020,MA,Massachusetts,RES,residential,21.97,cents per kilowatt-hour
+2020,MAT,Middle Atlantic,RES,residential,15.93,cents per kilowatt-hour
+2020,MD,Maryland,RES,residential,13.01,cents per kilowatt-hour
+2020,ME,Maine,RES,residential,16.81,cents per kilowatt-hour
+2020,MI,Michigan,RES,residential,16.26,cents per kilowatt-hour
+2020,MN,Minnesota,RES,residential,13.17,cents per kilowatt-hour
+2020,MO,Missouri,RES,residential,11.22,cents per kilowatt-hour
+2020,MS,Mississippi,RES,residential,11.17,cents per kilowatt-hour
+2020,MT,Montana,RES,residential,11.24,cents per kilowatt-hour
+2020,MTN,Mountain,RES,residential,11.76,cents per kilowatt-hour
+2020,NC,North Carolina,RES,residential,11.38,cents per kilowatt-hour
+2020,ND,North Dakota,RES,residential,10.44,cents per kilowatt-hour
+2020,NE,Nebraska,RES,residential,10.8,cents per kilowatt-hour
+2020,NEW,New England,RES,residential,21.25,cents per kilowatt-hour
+2020,NH,New Hampshire,RES,residential,19.04,cents per kilowatt-hour
+2020,NJ,New Jersey,RES,residential,16.03,cents per kilowatt-hour
+2020,NM,New Mexico,RES,residential,12.94,cents per kilowatt-hour
+2020,NV,Nevada,RES,residential,11.34,cents per kilowatt-hour
+2020,NY,New York,RES,residential,18.36,cents per kilowatt-hour
+2020,OH,Ohio,RES,residential,12.29,cents per kilowatt-hour
+2020,OK,Oklahoma,RES,residential,10.12,cents per kilowatt-hour
+2020,OR,Oregon,RES,residential,11.17,cents per kilowatt-hour
+2020,PA,Pennsylvania,RES,residential,13.58,cents per kilowatt-hour
+2020,PACC,Pacific Contiguous,RES,residential,16.67,cents per kilowatt-hour
+2020,PACN,Pacific Noncontiguous,RES,residential,27.02,cents per kilowatt-hour
+2020,RI,Rhode Island,RES,residential,22.01,cents per kilowatt-hour
+2020,SAT,South Atlantic,RES,residential,11.79,cents per kilowatt-hour
+2020,SC,South Carolina,RES,residential,12.78,cents per kilowatt-hour
+2020,SD,South Dakota,RES,residential,11.75,cents per kilowatt-hour
+2020,TN,Tennessee,RES,residential,10.76,cents per kilowatt-hour
+2020,TX,Texas,RES,residential,11.71,cents per kilowatt-hour
+2020,US,U.S. Total,RES,residential,13.15,cents per kilowatt-hour
+2020,UT,Utah,RES,residential,10.44,cents per kilowatt-hour
+2020,VA,Virginia,RES,residential,12.03,cents per kilowatt-hour
+2020,VT,Vermont,RES,residential,19.54,cents per kilowatt-hour
+2020,WA,Washington,RES,residential,9.87,cents per kilowatt-hour
+2020,WI,Wisconsin,RES,residential,14.32,cents per kilowatt-hour
+2020,WNC,West North Central,RES,residential,11.96,cents per kilowatt-hour
+2020,WSC,West South Central,RES,residential,11.17,cents per kilowatt-hour
+2020,WV,West Virginia,RES,residential,11.8,cents per kilowatt-hour
+2020,WY,Wyoming,RES,residential,11.11,cents per kilowatt-hour
+2021,AK,Alaska,RES,residential,22.55,cents per kilowatt-hour
+2021,AL,Alabama,RES,residential,12.96,cents per kilowatt-hour
+2021,AR,Arkansas,RES,residential,11.27,cents per kilowatt-hour
+2021,AZ,Arizona,RES,residential,12.54,cents per kilowatt-hour
+2021,CA,California,RES,residential,22.82,cents per kilowatt-hour
+2021,CO,Colorado,RES,residential,13.07,cents per kilowatt-hour
+2021,CT,Connecticut,RES,residential,21.91,cents per kilowatt-hour
+2021,DC,District of Columbia,RES,residential,13.09,cents per kilowatt-hour
+2021,DE,Delaware,RES,residential,12.52,cents per kilowatt-hour
+2021,ENC,East North Central,RES,residential,14.07,cents per kilowatt-hour
+2021,ESC,East South Central,RES,residential,11.74,cents per kilowatt-hour
+2021,FL,Florida,RES,residential,11.9,cents per kilowatt-hour
+2021,GA,Georgia,RES,residential,12.51,cents per kilowatt-hour
+2021,HI,Hawaii,RES,residential,33.49,cents per kilowatt-hour
+2021,IA,Iowa,RES,residential,12.73,cents per kilowatt-hour
+2021,ID,Idaho,RES,residential,10.16,cents per kilowatt-hour
+2021,IL,Illinois,RES,residential,13.18,cents per kilowatt-hour
+2021,IN,Indiana,RES,residential,13.37,cents per kilowatt-hour
+2021,KS,Kansas,RES,residential,12.98,cents per kilowatt-hour
+2021,KY,Kentucky,RES,residential,11.5,cents per kilowatt-hour
+2021,LA,Louisiana,RES,residential,11.02,cents per kilowatt-hour
+2021,MA,Massachusetts,RES,residential,22.89,cents per kilowatt-hour
+2021,MAT,Middle Atlantic,RES,residential,16.48,cents per kilowatt-hour
+2021,MD,Maryland,RES,residential,13.12,cents per kilowatt-hour
+2021,ME,Maine,RES,residential,17.02,cents per kilowatt-hour
+2021,MI,Michigan,RES,residential,17.54,cents per kilowatt-hour
+2021,MN,Minnesota,RES,residential,13.5,cents per kilowatt-hour
+2021,MO,Missouri,RES,residential,11.41,cents per kilowatt-hour
+2021,MS,Mississippi,RES,residential,11.56,cents per kilowatt-hour
+2021,MT,Montana,RES,residential,11.22,cents per kilowatt-hour
+2021,MTN,Mountain,RES,residential,12.04,cents per kilowatt-hour
+2021,NC,North Carolina,RES,residential,11.32,cents per kilowatt-hour
+2021,ND,North Dakota,RES,residential,10.85,cents per kilowatt-hour
+2021,NE,Nebraska,RES,residential,10.75,cents per kilowatt-hour
+2021,NEW,New England,RES,residential,21.51,cents per kilowatt-hour
+2021,NH,New Hampshire,RES,residential,19.85,cents per kilowatt-hour
+2021,NJ,New Jersey,RES,residential,16.35,cents per kilowatt-hour
+2021,NM,New Mexico,RES,residential,13.52,cents per kilowatt-hour
+2021,NV,Nevada,RES,residential,11.49,cents per kilowatt-hour
+2021,NY,New York,RES,residential,19.48,cents per kilowatt-hour
+2021,OH,Ohio,RES,residential,12.77,cents per kilowatt-hour
+2021,OK,Oklahoma,RES,residential,11,cents per kilowatt-hour
+2021,OR,Oregon,RES,residential,11.37,cents per kilowatt-hour
+2021,PA,Pennsylvania,RES,residential,13.76,cents per kilowatt-hour
+2021,PACC,Pacific Contiguous,RES,residential,18.01,cents per kilowatt-hour
+2021,PACN,Pacific Noncontiguous,RES,residential,28.85,cents per kilowatt-hour
+2021,RI,Rhode Island,RES,residential,22.3,cents per kilowatt-hour
+2021,SAT,South Atlantic,RES,residential,12.1,cents per kilowatt-hour
+2021,SC,South Carolina,RES,residential,12.86,cents per kilowatt-hour
+2021,SD,South Dakota,RES,residential,12.22,cents per kilowatt-hour
+2021,TN,Tennessee,RES,residential,11.07,cents per kilowatt-hour
+2021,TX,Texas,RES,residential,12.11,cents per kilowatt-hour
+2021,US,U.S. Total,RES,residential,13.66,cents per kilowatt-hour
+2021,UT,Utah,RES,residential,10.43,cents per kilowatt-hour
+2021,VA,Virginia,RES,residential,11.96,cents per kilowatt-hour
+2021,VT,Vermont,RES,residential,19.26,cents per kilowatt-hour
+2021,WA,Washington,RES,residential,10.11,cents per kilowatt-hour
+2021,WI,Wisconsin,RES,residential,14.52,cents per kilowatt-hour
+2021,WNC,West North Central,RES,residential,12.19,cents per kilowatt-hour
+2021,WSC,West South Central,RES,residential,11.78,cents per kilowatt-hour
+2021,WV,West Virginia,RES,residential,12.15,cents per kilowatt-hour
+2021,WY,Wyoming,RES,residential,11.17,cents per kilowatt-hour
+2022,AK,Alaska,RES,residential,23.1,cents per kilowatt-hour
+2022,AL,Alabama,RES,residential,14.25,cents per kilowatt-hour
+2022,AR,Arkansas,RES,residential,12.05,cents per kilowatt-hour
+2022,AZ,Arizona,RES,residential,13.02,cents per kilowatt-hour
+2022,CA,California,RES,residential,25.84,cents per kilowatt-hour
+2022,CO,Colorado,RES,residential,14.19,cents per kilowatt-hour
+2022,CT,Connecticut,RES,residential,24.61,cents per kilowatt-hour
+2022,DC,District of Columbia,RES,residential,14.18,cents per kilowatt-hour
+2022,DE,Delaware,RES,residential,13.71,cents per kilowatt-hour
+2022,ENC,East North Central,RES,residential,15.36,cents per kilowatt-hour
+2022,ESC,East South Central,RES,residential,12.96,cents per kilowatt-hour
+2022,FL,Florida,RES,residential,13.9,cents per kilowatt-hour
+2022,GA,Georgia,RES,residential,13.8,cents per kilowatt-hour
+2022,HI,Hawaii,RES,residential,43.03,cents per kilowatt-hour
+2022,IA,Iowa,RES,residential,13.15,cents per kilowatt-hour
+2022,ID,Idaho,RES,residential,10.37,cents per kilowatt-hour
+2022,IL,Illinois,RES,residential,15.65,cents per kilowatt-hour
+2022,IN,Indiana,RES,residential,14.59,cents per kilowatt-hour
+2022,KS,Kansas,RES,residential,13.99,cents per kilowatt-hour
+2022,KY,Kentucky,RES,residential,12.91,cents per kilowatt-hour
+2022,LA,Louisiana,RES,residential,12.93,cents per kilowatt-hour
+2022,MA,Massachusetts,RES,residential,25.97,cents per kilowatt-hour
+2022,MAT,Middle Atlantic,RES,residential,18.43,cents per kilowatt-hour
+2022,MD,Maryland,RES,residential,14.46,cents per kilowatt-hour
+2022,ME,Maine,RES,residential,22.44,cents per kilowatt-hour
+2022,MI,Michigan,RES,residential,17.86,cents per kilowatt-hour
+2022,MN,Minnesota,RES,residential,14.25,cents per kilowatt-hour
+2022,MO,Missouri,RES,residential,11.74,cents per kilowatt-hour
+2022,MS,Mississippi,RES,residential,12.41,cents per kilowatt-hour
+2022,MT,Montana,RES,residential,11.33,cents per kilowatt-hour
+2022,MTN,Mountain,RES,residential,12.79,cents per kilowatt-hour
+2022,NC,North Carolina,RES,residential,11.62,cents per kilowatt-hour
+2022,ND,North Dakota,RES,residential,10.92,cents per kilowatt-hour
+2022,NE,Nebraska,RES,residential,10.79,cents per kilowatt-hour
+2022,NEW,New England,RES,residential,24.73,cents per kilowatt-hour
+2022,NH,New Hampshire,RES,residential,25.46,cents per kilowatt-hour
+2022,NJ,New Jersey,RES,residential,16.74,cents per kilowatt-hour
+2022,NM,New Mexico,RES,residential,13.84,cents per kilowatt-hour
+2022,NV,Nevada,RES,residential,13.78,cents per kilowatt-hour
+2022,NY,New York,RES,residential,22.08,cents per kilowatt-hour
+2022,OH,Ohio,RES,residential,13.85,cents per kilowatt-hour
+2022,OK,Oklahoma,RES,residential,12.44,cents per kilowatt-hour
+2022,OR,Oregon,RES,residential,11.42,cents per kilowatt-hour
+2022,PA,Pennsylvania,RES,residential,15.94,cents per kilowatt-hour
+2022,PACC,Pacific Contiguous,RES,residential,19.72,cents per kilowatt-hour
+2022,PACN,Pacific Noncontiguous,RES,residential,34.51,cents per kilowatt-hour
+2022,RI,Rhode Island,RES,residential,23.21,cents per kilowatt-hour
+2022,SAT,South Atlantic,RES,residential,13.44,cents per kilowatt-hour
+2022,SC,South Carolina,RES,residential,13.59,cents per kilowatt-hour
+2022,SD,South Dakota,RES,residential,12.09,cents per kilowatt-hour
+2022,TN,Tennessee,RES,residential,12.25,cents per kilowatt-hour
+2022,TX,Texas,RES,residential,13.76,cents per kilowatt-hour
+2022,US,U.S. Total,RES,residential,15.04,cents per kilowatt-hour
+2022,UT,Utah,RES,residential,10.84,cents per kilowatt-hour
+2022,VA,Virginia,RES,residential,13.34,cents per kilowatt-hour
+2022,VT,Vermont,RES,residential,19.93,cents per kilowatt-hour
+2022,WA,Washington,RES,residential,10.26,cents per kilowatt-hour
+2022,WI,Wisconsin,RES,residential,15.62,cents per kilowatt-hour
+2022,WNC,West North Central,RES,residential,12.63,cents per kilowatt-hour
+2022,WSC,West South Central,RES,residential,13.39,cents per kilowatt-hour
+2022,WV,West Virginia,RES,residential,13.23,cents per kilowatt-hour
+2022,WY,Wyoming,RES,residential,11.09,cents per kilowatt-hour
+2023,AK,Alaska,RES,residential,23.9,cents per kilowatt-hour
+2023,AL,Alabama,RES,residential,14.63,cents per kilowatt-hour
+2023,AR,Arkansas,RES,residential,12.25,cents per kilowatt-hour
+2023,AZ,Arizona,RES,residential,14.02,cents per kilowatt-hour
+2023,CA,California,RES,residential,29.51,cents per kilowatt-hour
+2023,CO,Colorado,RES,residential,14.3,cents per kilowatt-hour
+2023,CT,Connecticut,RES,residential,29.88,cents per kilowatt-hour
+2023,DC,District of Columbia,RES,residential,16.45,cents per kilowatt-hour
+2023,DE,Delaware,RES,residential,15.73,cents per kilowatt-hour
+2023,ENC,East North Central,RES,residential,16.19,cents per kilowatt-hour
+2023,ESC,East South Central,RES,residential,13.11,cents per kilowatt-hour
+2023,FL,Florida,RES,residential,15.21,cents per kilowatt-hour
+2023,GA,Georgia,RES,residential,13.69,cents per kilowatt-hour
+2023,HI,Hawaii,RES,residential,42.39,cents per kilowatt-hour
+2023,IA,Iowa,RES,residential,13.31,cents per kilowatt-hour
+2023,ID,Idaho,RES,residential,11.05,cents per kilowatt-hour
+2023,IL,Illinois,RES,residential,15.71,cents per kilowatt-hour
+2023,IN,Indiana,RES,residential,14.94,cents per kilowatt-hour
+2023,KS,Kansas,RES,residential,13.38,cents per kilowatt-hour
+2023,KY,Kentucky,RES,residential,12.65,cents per kilowatt-hour
+2023,LA,Louisiana,RES,residential,11.55,cents per kilowatt-hour
+2023,MA,Massachusetts,RES,residential,29.61,cents per kilowatt-hour
+2023,MAT,Middle Atlantic,RES,residential,19.6,cents per kilowatt-hour
+2023,MD,Maryland,RES,residential,16.6,cents per kilowatt-hour
+2023,ME,Maine,RES,residential,27.42,cents per kilowatt-hour
+2023,MI,Michigan,RES,residential,18.84,cents per kilowatt-hour
+2023,MN,Minnesota,RES,residential,14.73,cents per kilowatt-hour
+2023,MO,Missouri,RES,residential,12.58,cents per kilowatt-hour
+2023,MS,Mississippi,RES,residential,13.23,cents per kilowatt-hour
+2023,MT,Montana,RES,residential,12.54,cents per kilowatt-hour
+2023,MTN,Mountain,RES,residential,13.68,cents per kilowatt-hour
+2023,NC,North Carolina,RES,residential,12.93,cents per kilowatt-hour
+2023,ND,North Dakota,RES,residential,11.01,cents per kilowatt-hour
+2023,NE,Nebraska,RES,residential,11.2,cents per kilowatt-hour
+2023,NEW,New England,RES,residential,28.73,cents per kilowatt-hour
+2023,NH,New Hampshire,RES,residential,28.15,cents per kilowatt-hour
+2023,NJ,New Jersey,RES,residential,17.7,cents per kilowatt-hour
+2023,NM,New Mexico,RES,residential,13.85,cents per kilowatt-hour
+2023,NV,Nevada,RES,residential,16.67,cents per kilowatt-hour
+2023,NY,New York,RES,residential,22.24,cents per kilowatt-hour
+2023,OH,Ohio,RES,residential,15.38,cents per kilowatt-hour
+2023,OK,Oklahoma,RES,residential,12.08,cents per kilowatt-hour
+2023,OR,Oregon,RES,residential,12.73,cents per kilowatt-hour
+2023,PA,Pennsylvania,RES,residential,18.1,cents per kilowatt-hour
+2023,PACC,Pacific Contiguous,RES,residential,22.02,cents per kilowatt-hour
+2023,PACN,Pacific Noncontiguous,RES,residential,34.4,cents per kilowatt-hour
+2023,RI,Rhode Island,RES,residential,27.02,cents per kilowatt-hour
+2023,SAT,South Atlantic,RES,residential,14.45,cents per kilowatt-hour
+2023,SC,South Carolina,RES,residential,13.68,cents per kilowatt-hour
+2023,SD,South Dakota,RES,residential,12.32,cents per kilowatt-hour
+2023,TN,Tennessee,RES,residential,12.19,cents per kilowatt-hour
+2023,TX,Texas,RES,residential,14.46,cents per kilowatt-hour
+2023,US,U.S. Total,RES,residential,16,cents per kilowatt-hour
+2023,UT,Utah,RES,residential,11.2,cents per kilowatt-hour
+2023,VA,Virginia,RES,residential,14.26,cents per kilowatt-hour
+2023,VT,Vermont,RES,residential,20.82,cents per kilowatt-hour
+2023,WA,Washington,RES,residential,10.98,cents per kilowatt-hour
+2023,WI,Wisconsin,RES,residential,16.88,cents per kilowatt-hour
+2023,WNC,West North Central,RES,residential,13.02,cents per kilowatt-hour
+2023,WSC,West South Central,RES,residential,13.68,cents per kilowatt-hour
+2023,WV,West Virginia,RES,residential,14.05,cents per kilowatt-hour
+2023,WY,Wyoming,RES,residential,11.46,cents per kilowatt-hour
+2024,AK,Alaska,RES,residential,24.82,cents per kilowatt-hour
+2024,AL,Alabama,RES,residential,15.18,cents per kilowatt-hour
+2024,AR,Arkansas,RES,residential,12.32,cents per kilowatt-hour
+2024,AZ,Arizona,RES,residential,14.91,cents per kilowatt-hour
+2024,CA,California,RES,residential,31.97,cents per kilowatt-hour
+2024,CO,Colorado,RES,residential,14.92,cents per kilowatt-hour
+2024,CT,Connecticut,RES,residential,28.75,cents per kilowatt-hour
+2024,DC,District of Columbia,RES,residential,17.71,cents per kilowatt-hour
+2024,DE,Delaware,RES,residential,16.57,cents per kilowatt-hour
+2024,ENC,East North Central,RES,residential,16.48,cents per kilowatt-hour
+2024,ESC,East South Central,RES,residential,13.4,cents per kilowatt-hour
+2024,FL,Florida,RES,residential,14.14,cents per kilowatt-hour
+2024,GA,Georgia,RES,residential,14.08,cents per kilowatt-hour
+2024,HI,Hawaii,RES,residential,42.86,cents per kilowatt-hour
+2024,IA,Iowa,RES,residential,13.4,cents per kilowatt-hour
+2024,ID,Idaho,RES,residential,11.52,cents per kilowatt-hour
+2024,IL,Illinois,RES,residential,15.87,cents per kilowatt-hour
+2024,IN,Indiana,RES,residential,14.77,cents per kilowatt-hour
+2024,KS,Kansas,RES,residential,14.15,cents per kilowatt-hour
+2024,KY,Kentucky,RES,residential,12.79,cents per kilowatt-hour
+2024,LA,Louisiana,RES,residential,11.73,cents per kilowatt-hour
+2024,MA,Massachusetts,RES,residential,29.35,cents per kilowatt-hour
+2024,MAT,Middle Atlantic,RES,residential,20.63,cents per kilowatt-hour
+2024,MD,Maryland,RES,residential,17.86,cents per kilowatt-hour
+2024,ME,Maine,RES,residential,24.29,cents per kilowatt-hour
+2024,MI,Michigan,RES,residential,19.3,cents per kilowatt-hour
+2024,MN,Minnesota,RES,residential,15.45,cents per kilowatt-hour
+2024,MO,Missouri,RES,residential,12.91,cents per kilowatt-hour
+2024,MS,Mississippi,RES,residential,13.39,cents per kilowatt-hour
+2024,MT,Montana,RES,residential,12.66,cents per kilowatt-hour
+2024,MTN,Mountain,RES,residential,14.12,cents per kilowatt-hour
+2024,NC,North Carolina,RES,residential,14.13,cents per kilowatt-hour
+2024,ND,North Dakota,RES,residential,11.51,cents per kilowatt-hour
+2024,NE,Nebraska,RES,residential,11.53,cents per kilowatt-hour
+2024,NEW,New England,RES,residential,27.68,cents per kilowatt-hour
+2024,NH,New Hampshire,RES,residential,23.4,cents per kilowatt-hour
+2024,NJ,New Jersey,RES,residential,19.34,cents per kilowatt-hour
+2024,NM,New Mexico,RES,residential,14.2,cents per kilowatt-hour
+2024,NV,Nevada,RES,residential,15,cents per kilowatt-hour
+2024,NY,New York,RES,residential,24.43,cents per kilowatt-hour
+2024,OH,Ohio,RES,residential,15.99,cents per kilowatt-hour
+2024,OK,Oklahoma,RES,residential,12.24,cents per kilowatt-hour
+2024,OR,Oregon,RES,residential,14.7,cents per kilowatt-hour
+2024,PA,Pennsylvania,RES,residential,17.77,cents per kilowatt-hour
+2024,PACC,Pacific Contiguous,RES,residential,24.23,cents per kilowatt-hour
+2024,PACN,Pacific Noncontiguous,RES,residential,34.95,cents per kilowatt-hour
+2024,RI,Rhode Island,RES,residential,28.65,cents per kilowatt-hour
+2024,SAT,South Atlantic,RES,residential,14.51,cents per kilowatt-hour
+2024,SC,South Carolina,RES,residential,14.23,cents per kilowatt-hour
+2024,SD,South Dakota,RES,residential,12.86,cents per kilowatt-hour
+2024,TN,Tennessee,RES,residential,12.42,cents per kilowatt-hour
+2024,TX,Texas,RES,residential,14.94,cents per kilowatt-hour
+2024,US,U.S. Total,RES,residential,16.48,cents per kilowatt-hour
+2024,UT,Utah,RES,residential,12.22,cents per kilowatt-hour
+2024,VA,Virginia,RES,residential,14.41,cents per kilowatt-hour
+2024,VT,Vermont,RES,residential,21.9,cents per kilowatt-hour
+2024,WA,Washington,RES,residential,11.9,cents per kilowatt-hour
+2024,WI,Wisconsin,RES,residential,17.18,cents per kilowatt-hour
+2024,WNC,West North Central,RES,residential,13.47,cents per kilowatt-hour
+2024,WSC,West South Central,RES,residential,14.04,cents per kilowatt-hour
+2024,WV,West Virginia,RES,residential,15.07,cents per kilowatt-hour
+2024,WY,Wyoming,RES,residential,12.47,cents per kilowatt-hour
+2025,AK,Alaska,RES,residential,26.11,cents per kilowatt-hour
+2025,AL,Alabama,RES,residential,16.09,cents per kilowatt-hour
+2025,AR,Arkansas,RES,residential,12.87,cents per kilowatt-hour
+2025,AZ,Arizona,RES,residential,15.26,cents per kilowatt-hour
+2025,CA,California,RES,residential,31.35,cents per kilowatt-hour
+2025,CO,Colorado,RES,residential,15.69,cents per kilowatt-hour
+2025,CT,Connecticut,RES,residential,29.31,cents per kilowatt-hour
+2025,DC,District of Columbia,RES,residential,21.92,cents per kilowatt-hour
+2025,DE,Delaware,RES,residential,17.15,cents per kilowatt-hour
+2025,ENC,East North Central,RES,residential,17.62,cents per kilowatt-hour
+2025,ESC,East South Central,RES,residential,14.09,cents per kilowatt-hour
+2025,FL,Florida,RES,residential,15.21,cents per kilowatt-hour
+2025,GA,Georgia,RES,residential,14.74,cents per kilowatt-hour
+2025,HI,Hawaii,RES,residential,40.4,cents per kilowatt-hour
+2025,IA,Iowa,RES,residential,13.62,cents per kilowatt-hour
+2025,ID,Idaho,RES,residential,11.83,cents per kilowatt-hour
+2025,IL,Illinois,RES,residential,17.67,cents per kilowatt-hour
+2025,IN,Indiana,RES,residential,15.96,cents per kilowatt-hour
+2025,KS,Kansas,RES,residential,14.44,cents per kilowatt-hour
+2025,KY,Kentucky,RES,residential,13.13,cents per kilowatt-hour
+2025,LA,Louisiana,RES,residential,12.52,cents per kilowatt-hour
+2025,MA,Massachusetts,RES,residential,30.41,cents per kilowatt-hour
+2025,MAT,Middle Atlantic,RES,residential,22.67,cents per kilowatt-hour
+2025,MD,Maryland,RES,residential,19.53,cents per kilowatt-hour
+2025,ME,Maine,RES,residential,27.69,cents per kilowatt-hour
+2025,MI,Michigan,RES,residential,20.03,cents per kilowatt-hour
+2025,MN,Minnesota,RES,residential,15.83,cents per kilowatt-hour
+2025,MO,Missouri,RES,residential,13.3,cents per kilowatt-hour
+2025,MS,Mississippi,RES,residential,14.03,cents per kilowatt-hour
+2025,MT,Montana,RES,residential,12.99,cents per kilowatt-hour
+2025,MTN,Mountain,RES,residential,14.35,cents per kilowatt-hour
+2025,NC,North Carolina,RES,residential,14,cents per kilowatt-hour
+2025,ND,North Dakota,RES,residential,11.82,cents per kilowatt-hour
+2025,NE,Nebraska,RES,residential,12.05,cents per kilowatt-hour
+2025,NEW,New England,RES,residential,28.84,cents per kilowatt-hour
+2025,NH,New Hampshire,RES,residential,24.53,cents per kilowatt-hour
+2025,NJ,New Jersey,RES,residential,22.48,cents per kilowatt-hour
+2025,NM,New Mexico,RES,residential,14.85,cents per kilowatt-hour
+2025,NV,Nevada,RES,residential,13.26,cents per kilowatt-hour
+2025,NY,New York,RES,residential,26.39,cents per kilowatt-hour
+2025,OH,Ohio,RES,residential,16.9,cents per kilowatt-hour
+2025,OK,Oklahoma,RES,residential,13.21,cents per kilowatt-hour
+2025,OR,Oregon,RES,residential,15.46,cents per kilowatt-hour
+2025,PA,Pennsylvania,RES,residential,19.29,cents per kilowatt-hour
+2025,PACC,Pacific Contiguous,RES,residential,24.28,cents per kilowatt-hour
+2025,PACN,Pacific Noncontiguous,RES,residential,34.34,cents per kilowatt-hour
+2025,RI,Rhode Island,RES,residential,29.48,cents per kilowatt-hour
+2025,SAT,South Atlantic,RES,residential,15.32,cents per kilowatt-hour
+2025,SC,South Carolina,RES,residential,15.12,cents per kilowatt-hour
+2025,SD,South Dakota,RES,residential,13.32,cents per kilowatt-hour
+2025,TN,Tennessee,RES,residential,13.22,cents per kilowatt-hour
+2025,TX,Texas,RES,residential,15.4,cents per kilowatt-hour
+2025,US,U.S. Total,RES,residential,17.23,cents per kilowatt-hour
+2025,UT,Utah,RES,residential,13.02,cents per kilowatt-hour
+2025,VA,Virginia,RES,residential,15.28,cents per kilowatt-hour
+2025,VT,Vermont,RES,residential,22.79,cents per kilowatt-hour
+2025,WA,Washington,RES,residential,13.17,cents per kilowatt-hour
+2025,WI,Wisconsin,RES,residential,18.08,cents per kilowatt-hour
+2025,WNC,West North Central,RES,residential,13.83,cents per kilowatt-hour
+2025,WSC,West South Central,RES,residential,14.61,cents per kilowatt-hour
+2025,WV,West Virginia,RES,residential,15.39,cents per kilowatt-hour
+2025,WY,Wyoming,RES,residential,13.37,cents per kilowatt-hour
