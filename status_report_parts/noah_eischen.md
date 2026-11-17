@@ -1,10 +1,10 @@
-# Milestone 3 status report: Noah Eischen's contributions
+# Milestone 3 status report: Noah Eischen Contributions
 
 These are the parts of the interim status report that cover data acquisition and the pre-integration quality assessment.
 
 ## 1. Progress on planned tasks
 
-### 1.1 Verify sources and definitions / data acquisition
+### 1.1 Verify sources and definitions/data acquisition
 
 All four sources are now downloaded by scripts instead of manual exports, and each script writes to `data/raw/`.
 [`acquire_eia.py`](../scripts/acquire_eia.py) pulls annual residential prices for all geographies from the EIA API,
@@ -22,13 +22,13 @@ I checked FRED's series notes, and the income series is in C-CPI-U dollars (2025
 the price index is BLS series `SUUR0000SA0`. One month of 2025 has no published value, so the 2025 index is an
 average of 11 months (the `months_used` column shows this). The re-acquired ACS data matches the original
 `ACS_states_annual_electricity_demand.csv` exactly for all 750 state-years, and the new file also has margins of
-error and an `estimate_type` column. All four scripts, the verifier and the profile ran on the real data and are
+error and an `estimate_type` column. All four scripts, the verifier and the profile, ran on the real data and are
 pushed to `noah-e/acquisition`.
 
 ### 1.2 Pre-integration quality assessment
 
 [`results/quality/pre_integration.md`](../results/quality/pre_integration.md) profiles each raw file for accuracy,
-completeness, timeliness and consistency. Values look plausible (prices 7.87 to 43.03 cents/kWh, income $43,250 to
+completeness, timeliness, and consistency. Values look plausible (prices 7.87 to 43.03 cents/kWh, income $43,250 to
 $118,700, electric-heat share 4.2% to 92.7%), and nine state-years were flagged for year-over-year jumps above 25%,
 which are for review and not necessarily errors. EIA has 799 of 800 expected state-years because the API returns no
 price for Alaska 2016, while FRED has all 800 and ACS has all 750. EIA and FRED run through 2025 and ACS through 2024,
@@ -45,7 +45,7 @@ feasible once the Alaska gap is handled.
 
 ## 4. Challenges and how we are addressing them
 
-- The EIA API returns no price for Alaska 2016, although the original browser export has 20.30 and the 2015 and 2017
+- The EIA API returns no price for Alaska 2016, although the original browser export has 20.30, and the 2015 and 2017
   values match the API. That leaves 749 of 750 joinable state-years, and the team still has to decide whether to
   accept the gap or fill the value from the browser export and flag it.
 - The Census API now rejects requests without a key, so `acquire_acs.py` needs a free `CENSUS_API_KEY`. Like the EIA
@@ -56,5 +56,5 @@ feasible once the Alaska gap is handled.
 ## 5. Individual contribution
 
 I wrote the four acquisition scripts (EIA, FRED, ACS and CPI), the checksum verifier and the pre-integration
-profile. I worked out which deflator FRED's income series uses, compared the re-acquired ACS data against the
+profile. I also worked out which deflator FRED's income series uses, compared the re-acquired ACS data against the
 original file (all 750 state-years matched), and found the missing Alaska 2016 EIA price and the 11-month 2025 CPI.
