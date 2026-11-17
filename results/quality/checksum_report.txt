@@ -1,0 +1,9 @@
+SHA-256 verification of data/raw/
+OK        data/raw/acs_b25040.csv
+OK        data/raw/cpi.csv
+OK        data/raw/eia_residential_price.csv
+OK        data/raw/fred_median_household_income.csv
+OK        data/raw/legacy/ACS_states_annual_electricity_demand.csv
+OK        data/raw/legacy/EIA_Average_retail_price_of_electricity.csv
+OK        data/raw/legacy/FRED_median_household_income.csv
+RESULT: all files verified
