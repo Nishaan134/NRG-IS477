@@ -197,8 +197,6 @@ causal effects.
 
 ## 5. Individual contributions
 
-Each member adds and commits their own summary.
-
 ### Nishaan Chavla
 
 I set up the repository layout, `.gitignore` and pinned `requirements.txt`, and wrote the data integration
