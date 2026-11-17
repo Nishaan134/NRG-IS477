@@ -209,6 +209,8 @@ workflow, merge the branches and create the `status-report` release.
 
 ### Noah Eischen
 
+I wrote the four acquisition scripts (EIA, FRED, ACS and CPI), the checksum verifier and the pre-integration profile. I also worked out which deflator FRED's income series uses, compared the re-acquired ACS data against the original file (all 750 state-years matched), and found the missing Alaska 2016 EIA price and the 11-month 2025 CPI.
+
 ### Noah Cha-Price
 
 I wrote the analysis step of the workflow: scripts/analyze.py (summaries, per-year comparisons, fixed-effects and first-difference models, sensitivity checks) and scripts/plot_figures.py (four figures), organized around our three research questions. I wrote the analysis parts of this report (section 1.6, the Nov 13 and Nov 20 timeline rows, the plan changes and the challenges) and tested both scripts end to end. Next I will run them on the final merged data after Nov 18 and write up the results.
