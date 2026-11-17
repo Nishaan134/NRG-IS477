@@ -210,3 +210,5 @@ workflow, merge the branches and create the `status-report` release.
 ### Noah Eischen
 
 ### Noah Cha-Price
+
+I wrote the analysis step of the workflow: scripts/analyze.py (summaries, per-year comparisons, fixed-effects and first-difference models, sensitivity checks) and scripts/plot_figures.py (four figures), organized around our three research questions. I wrote the analysis parts of this report (section 1.6, the Nov 13 and Nov 20 timeline rows, the plan changes and the challenges) and tested both scripts end to end. Next I will run them on the final merged data after Nov 18 and write up the results.
