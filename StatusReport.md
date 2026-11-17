@@ -2,12 +2,13 @@
 
 Milestone 3 · IS 477 · Fall 2026 · Team: Nishaan Chavla, Noah Eischen, Noah Cha-Price
 
-Work is developed on one branch per role and has not yet been merged into `main`. Links therefore point
-to the branch that holds each artifact:
+Work is developed on one branch per role. Acquisition and integration have not yet been merged into
+`main`, so links point to the branch that holds each artifact:
 [`noah-e/acquisition`](https://github.com/Nishaan134/NRG-IS477/tree/noah-e/acquisition) (acquisition, raw data, pre-integration quality),
 [`nishaan/integration`](https://github.com/Nishaan134/NRG-IS477/tree/nishaan/integration) (cleaning, integration, post-integration quality, workflow) and
 [`interim-project-report`](https://github.com/Nishaan134/NRG-IS477/tree/interim-project-report) (analysis).
-The branches will be merged into `main` after the full workflow run planned for Nov 18.
+The analysis scripts were merged into `main` through pull request #2; the remaining branches will be merged after
+the full workflow run planned for Nov 18.
 
 ## 1. Progress on planned tasks
 
